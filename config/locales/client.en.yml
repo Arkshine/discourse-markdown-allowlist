@@ -3,7 +3,7 @@ en:
     admin:
       site_settings:
         categories:
-          TODO_plugin_name: "Plugin Name"
+          markdown_allowlist: "Markdown Allow list"
   js:
-    discourse_plugin_name:
+    markdown_allowlist:
       placeholder: placeholder
